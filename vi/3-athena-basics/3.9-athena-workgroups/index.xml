@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Athena Workgroups on AWS System Manager</title>
+    <link>http://ngoctrang315.github.io/vi/3-athena-basics/3.9-athena-workgroups/</link>
+    <description>Recent content in Athena Workgroups on AWS System Manager</description>
+    <generator>Hugo</generator>
+    <language>vi</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://ngoctrang315.github.io/vi/3-athena-basics/3.9-athena-workgroups/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
